@@ -1,5 +1,3 @@
-# andrea-anf.github.io
-
 # Andrea Anfuso
 
 📍 Caltagirone, Italy
