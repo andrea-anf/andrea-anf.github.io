@@ -3,9 +3,13 @@
 # Andrea Anfuso
 
 📍 Caltagirone, Italy
+
 📧 [anfuso.studio@gmail.com](mailto:anfuso.studio@gmail.com)
+
 🔗 LinkedIn: https://linkedin.com/in/anfusoandrea
+
 💻 GitHub: https://github.com/andrea-anf
+
 
 ---
 
