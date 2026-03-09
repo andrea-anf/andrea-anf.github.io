@@ -19,8 +19,6 @@ I automate as much as I can, from using Terraform to handling routine tasks with
 
 I have worked with small and large clients, both independently and in teams, learning as much as I could from each experience.
 
-I'm looking fo a team where to grow and build great systems with.
-
 ---
 
 ## 🛠 DevOps Skills
