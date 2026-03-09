@@ -1,44 +1,49 @@
 # Andrea Anfuso -- Work In progress
 
-📍 Caltagirone, Italy
+## Personal Information
 
-📧 [anfuso.studio@gmail.com](mailto:anfuso.studio@gmail.com)
+📍 Located in Caltagirone, Italy
+
+📧 Mail: [anfuso.studio@gmail.com](mailto:anfuso.studio@gmail.com)
 
 🔗 LinkedIn: https://linkedin.com/in/anfusoandrea
 
 💻 GitHub: https://github.com/andrea-anf
 
-
 ---
 
 ## 👨‍💻 Profile
-Hi, I'm Andrea! I'm a Cloud/Devops Engineer since 2021, I mainly worked with AWS services, designing and managing environments centered around clusters and container-based architectures. 
+Hi, I'm Andrea! I'm a Cloud/DevOps Engineer since 2021, I have mainly worked with AWS services, designing and managing environments around clusters and container-based architectures. 
 
-I automate as much as I can, from using Terraform to clear tasks with my own snippets, not only for reliability but also for the joy of learning new things.
+I automate as much as I can, from using Terraform to handling routine tasks with my own snippets, not only for reliability but also for the joy of learning new things.
 
-I worked with small and large clients, alone and in teams, learning everything I could from each of them.
+I have worked with small and large clients, both independently and in teams, learning as much as I could from each experience.
 
-I want to find a team to grow and build great systems with.
+I'm looking fo a team where to grow and build great systems with.
 
 ---
 
 ## 🛠 DevOps Skills
 
 **Cloud**
-- AWS (EC2, EKS, EFS, ECS, ECR, RDS, KMS, S3, IAM, VPC, CodeCommit, CodeBuild, CodePipeline)
-- Azure (Azure Devops)
+- AWS (EC2, EKS, EFS, ECS, Fargate, ECR, RDS, KMS, S3, IAM, VPC)
+- Azure (Basic usage)
 
 **Containers & Orchestration**
 - Docker
 - Kubernetes
-- Openshift
+- OpenShift
 
 **Infrastructure as Code**
 - Terraform
+- Terragrunt
   
 **CI/CD**
+- AWS (CodeCommit, CodeBuild, CodePipeline)
+- Azure DevOps
 - Helm
 - Jenkins
+- GitLab
 
 **Scripting**
 - Bash
@@ -53,75 +58,53 @@ I want to find a team to grow and build great systems with.
 * ServiceNow
 * A notebook and a pen (yes, to make sketches during long calls)
 
+---
+
+## 💼 Working Experience 
+
+### Lutech Spa – DevOps Engineer and System Administrator
+
+📅 2021 – Present
+
+* Key Responsibilities:
+    * Design and maintain scalable and secure **AWS Cloud infrastructures** with containerized environments
+    * Implement and maintain **Infrastructure as Code (IAC)** to automate infrastructure provisioning and improve system reliability
+    * **Identity and Access Management (IAM)**, handling permissions and access control following best practices and principles
+    * Implement and maintain **CI/CD pipelines** to automate the building and deployment of services
+    * **Fine-tuning and troubleshooting** on working environments with high workloads
+* Achievements:
+    * Collaborated with high-profile clients across diverse industries, including:
+        - [RAI - Radiotelevisione Italiana](https://www.rai.it/)
+        - [BPER Banca](https://www.bper.it/)
+        - [Assicurazioni Generali](https://www.generali.it/)
+        - [ASPI - Autostrade per l'Italia](https://www.autostrade.it/it/home)
+        - [ARIA - Azienda Regionale per l'Innovazione e gli Acquisti](https://www.ariaspa.it/wps/portal/Aria/Home)
+    * Certifications
+    * Valuable experience across the entire lifecycle of a working environment, from the starting PoC to the maintenance phase.
 
 ---
 
-## 💼 Esperienza lavorativa
+## 🌍 Languages
 
-### Lutech Spa – DevOps Engineer
-
-📅 2021 – Presente
-
-* Descrizione breve del lavoro
-* Tecnologie utilizzate
-* Risultati ottenuti
-
-<!-- 
-### Nome Azienda – Ruolo
-
-📅 2021 – 2023
-
-* Attività principale
-* Progetti seguiti
-* Tecnologie utilizzate
+* Italian — Native
+* English — Fluent
 
 ---
 
-## 📚 Formazione
+## 📄 Certifications
+* AWS Certified Solutions Architect - Associate - (Exp. 2026)
+* Red Hat Certified OpenShift Administrator v4.14 - (Exp. 2027)
+* Red Hat Specialist in OpenShift Virtualization V4.16 - (In progress)
 
-### Nome Università / Scuola
-
-🎓 Titolo di studio
-📅 Anno
-
-Descrizione breve (facoltativa).
-
+> **Note:** You can check them on my [Linkedin profile](#personal-information), linked above
 ---
 
-## 🚀 Progetti
+## 📚 Education
 
-### Nome Progetto
+### University of Milan - La Statale, Milan
 
-🔗 Link: https://github.com/tuonome/progetto
-
-Breve descrizione del progetto e tecnologie utilizzate.
-
-### Nome Progetto
-
-🔗 Link: https://github.com/tuonome/progetto2
-
-Breve descrizione.
+🎓 Bachelor's Degree in Computer Systems and Networks Security, 95/110
+📅 2018 - 2021
 
 ---
-
-## 🌍 Lingue
-
-* Italiano — Madrelingua
-* Inglese — Livello B2
-
----
-
-## 📄 Certificazioni
-
-* Nome certificazione – Ente (Anno)
-* Nome certificazione – Ente (Anno)
-
----
-
-## 🎯 Interessi
-
-* Open source
-* AI
-* Cybersecurity
-* Automazione
--->
+*Last updated: March 2026*
