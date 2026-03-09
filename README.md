@@ -26,7 +26,7 @@ I'm looking fo a team where to grow and build great systems with.
 ## 🛠 DevOps Skills
 
 **Cloud**
-- AWS (EC2, EKS, EFS, ECS, Fargate, ECR, RDS, KMS, S3, IAM, VPC)
+- AWS (Advanced)
 - Azure (Basic usage)
 
 **Containers & Orchestration**
@@ -39,7 +39,7 @@ I'm looking fo a team where to grow and build great systems with.
 - Terragrunt
   
 **CI/CD**
-- AWS (CodeCommit, CodeBuild, CodePipeline)
+- AWS CodeCommit, CodeBuild, CodePipeline
 - Azure DevOps
 - Helm
 - Jenkins
