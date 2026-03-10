@@ -6,9 +6,9 @@
 
 📧 Mail: [anfuso.studio@gmail.com](mailto:anfuso.studio@gmail.com)
 
-🔗 LinkedIn: https://linkedin.com/in/anfusoandrea
+🔗 LinkedIn: [linkedin.com/in/anfusoandrea](https://linkedin.com/in/anfusoandrea)
 
-💻 GitHub: https://github.com/andrea-anf
+💻 GitHub: [github.com/andrea-anf](https://github.com/andrea-anf)
 
 ---
 
