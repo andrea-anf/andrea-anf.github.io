@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 Profile
-Hi, I'm Andrea! I'm a Cloud/DevOps Engineer since 2021, I have mainly worked with AWS services, designing and managing environments around clusters and container-based architectures. 
+Hi, I'm Andrea! I'm a DevOps/Cloud Engineer since 2021, I have mainly worked with AWS services, designing and managing environments around clusters and container-based architectures. 
 
 I like automation, from using Terraform to handle routine tasks with my own snippets, not only for reliability but also for the joy of learning new things.
 
@@ -24,8 +24,8 @@ I have worked with small and large clients, both independently and in teams, lea
 ## 🛠 DevOps Skills
 
 **Cloud**
-- AWS (Advanced)
-- Azure (Basic usage)
+- AWS
+- Azure
 
 **Containers & Orchestration**
 - Docker
@@ -95,8 +95,7 @@ I have worked with small and large clients, both independently and in teams, lea
 
 ### University of Milan - La Statale, Milan
 
-🎓 Bachelor's Degree in Computer Systems and Networks Security, 95/110
-📅 2018 - 2021
+Bachelor's Degree in Computer Systems and Networks Security, 95/110, 2018 - 2021
 
 ---
 
