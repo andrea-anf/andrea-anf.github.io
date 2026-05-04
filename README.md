@@ -1,4 +1,4 @@
-# Andrea Anfuso - Mid DevOps/Cloud Engineer
+se# Andrea Anfuso - Mid DevOps/Cloud Engineer
 
 ## Personal Information
 
@@ -82,13 +82,6 @@ I have worked with small and large clients, both independently and in teams, lea
 
 ---
 
-## 🌍 Languages
-
-* Italian — Native
-* English — Fluent
-
----
-
 ## 📄 Certifications
 * AWS Certified Solutions Architect - Associate - (Exp. 2026)
 * Red Hat Certified OpenShift Administrator v4.14 - (Exp. 2027)
@@ -103,6 +96,13 @@ I have worked with small and large clients, both independently and in teams, lea
 
 🎓 Bachelor's Degree in Computer Systems and Networks Security, 95/110
 📅 2018 - 2021
+
+## 🌍 Languages
+
+---
+
+* Italian — Native
+* English — Fluent
 
 ---
 *Last updated: March 2026*
