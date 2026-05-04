@@ -15,7 +15,7 @@
 ## 👨‍💻 Profile
 Hi, I'm Andrea! I'm a DevOps/Cloud Engineer since 2021, I have mainly worked with AWS services, designing and managing environments around clusters and container-based architectures. 
 
-I like automation, from using Terraform to handle routine tasks with my own snippets, not only for reliability but also for the joy of learning new things.
+I'am passionate about automation, from managing infrastractures with Terraform to handle routine tasks with my own code snippets, combining reliability and genuine curiosità for learning new skills and technologies.
 
 I have worked with small and large clients, both independently and in teams, learning as much as I could from each experience.
 
@@ -67,9 +67,9 @@ I have worked with small and large clients, both independently and in teams, lea
 * Key Responsabilities:
     * Design and maintain scalable and secure **AWS Cloud infrastructures** with containerized environments
     * Implement and maintain **Infrastructure as Code (IAC)** to automate infrastructure provisioning and improve system reliability
-    * **Identity and Access Management (IAM)**, handling permissions and access control following best practices and principles
+    * Manage **Identity and Access Management (IAM)**, handling permissions and access control following best practices and principles
     * Implement and maintain **CI/CD pipelines** to automate the building and deployment of services
-    * **Fine-tuning and troubleshooting** on working environments with high workloads
+    * **Fine-tune and troubleshoot** on production environments with high workloads
 * Achievements:
     * Collaborated with high-profile clients across diverse industries, including:
         - [RAI - Radiotelevisione Italiana](https://www.rai.it/)
@@ -77,8 +77,8 @@ I have worked with small and large clients, both independently and in teams, lea
         - [Assicurazioni Generali](https://www.generali.it/)
         - [ASPI - Autostrade per l'Italia](https://www.autostrade.it/it/home)
         - [ARIA - Azienda Regionale per l'Innovazione e gli Acquisti](https://www.ariaspa.it/wps/portal/Aria/Home)
-    * Certifications
-    * Valuable experience across the entire lifecycle of a working environment, from the starting PoC to the maintenance phase.
+    * Technical ertifications (listed above)
+    * Valuable experience across the entire lifecycle of a working environment, from the initial PoC to the maintenance phase.
 
 ---
 
@@ -95,7 +95,7 @@ I have worked with small and large clients, both independently and in teams, lea
 
 ### University of Milan - La Statale, Milan
 
-Bachelor's Degree in Computer Systems and Networks Security, 95/110, 2018 - 2021
+Bachelor's Degree in Computer Systems and Networks Security, 95/110 (2018 - 2021)
 
 ---
 
@@ -105,4 +105,4 @@ Bachelor's Degree in Computer Systems and Networks Security, 95/110, 2018 - 2021
 * English — Fluent
 
 ---
-*Last updated: March 2026*
+*Last updated: May 2026*
