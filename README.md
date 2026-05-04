@@ -88,6 +88,7 @@ I have worked with small and large clients, both independently and in teams, lea
 * Red Hat Specialist in OpenShift Virtualization V4.16 - (In progress)
 
 > **Note:** You can check them on my [Linkedin profile](#personal-information), linked above
+
 ---
 
 ## 📚 Education
@@ -97,9 +98,9 @@ I have worked with small and large clients, both independently and in teams, lea
 🎓 Bachelor's Degree in Computer Systems and Networks Security, 95/110
 📅 2018 - 2021
 
-## 🌍 Languages
-
 ---
+
+## 🌍 Languages
 
 * Italian — Native
 * English — Fluent
