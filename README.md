@@ -1,4 +1,4 @@
-se# Andrea Anfuso - Mid DevOps/Cloud Engineer
+# Andrea Anfuso - Mid DevOps/Cloud Engineer
 
 ## Personal Information
 
