@@ -64,7 +64,7 @@ I have worked with small and large clients, both independently and in teams, lea
 
 📅 2021 – Present
 
-* Key Responsibilities:
+* Key Responsabilities:
     * Design and maintain scalable and secure **AWS Cloud infrastructures** with containerized environments
     * Implement and maintain **Infrastructure as Code (IAC)** to automate infrastructure provisioning and improve system reliability
     * **Identity and Access Management (IAM)**, handling permissions and access control following best practices and principles
