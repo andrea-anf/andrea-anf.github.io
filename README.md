@@ -15,7 +15,7 @@
 ## 👨‍💻 Profile
 Hi, I'm Andrea! I'm a Cloud/DevOps Engineer since 2021, I have mainly worked with AWS services, designing and managing environments around clusters and container-based architectures. 
 
-I automate as much as I can, from using Terraform to handling routine tasks with my own snippets, not only for reliability but also for the joy of learning new things.
+I like automation, from using Terraform to handle routine tasks with my own snippets, not only for reliability but also for the joy of learning new things.
 
 I have worked with small and large clients, both independently and in teams, learning as much as I could from each experience.
 
@@ -54,7 +54,7 @@ I have worked with small and large clients, both independently and in teams, lea
 * VS Code
 * Draw.io
 * ServiceNow
-* A notebook and a pen (yes, to make sketches during long calls)
+* A notebook and a pen (to make sketches during long calls)
 
 ---
 
