@@ -1,4 +1,4 @@
-# Andrea Anfuso - Mid DevOps/Cloud Engineer
+# Andrea Anfuso - Mid DevOps Engineer
 
 ## Personal Information
 
@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 Profile
-Hi, I'm Andrea! I'm a DevOps/Cloud Engineer since 2021, I have mainly worked with AWS services, designing and managing environments around clusters and container-based architectures. 
+Hi, I'm Andrea! I'm a DevOps Engineer since 2021, I have mainly worked with AWS services, designing and managing environments around clusters and container-based architectures. 
 
 I'am passionate about automation, from managing infrastractures with Terraform to handle routine tasks with my own code snippets, combining reliability and genuine curiosità for learning new skills and technologies.
 
