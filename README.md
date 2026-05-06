@@ -94,6 +94,7 @@ I have worked with small and large clients, both independently and in teams, lea
 ## 📚 Education
 
 Bachelor's Degree in Computer Systems and Networks Security, 95/110 (2018 - 2021)
+
 **University of Milan - La Statale, Milan**
 
 ---
