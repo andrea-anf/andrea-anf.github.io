@@ -21,6 +21,30 @@ I have worked with small and large clients, both independently and in teams, lea
 
 ---
 
+## 💼 Working Experience 
+
+### Lutech Spa – DevOps Engineer and System Administrator
+
+📅 2021 – Present
+
+* Key Responsabilities:
+    * Design and maintain scalable and secure **AWS Cloud infrastructures** with containerized environments
+    * Implement and maintain **Infrastructure as Code (IAC)** to automate infrastructure provisioning and improve system reliability
+    * Manage **Identity and Access Management (IAM)**, handling permissions and access control following best practices and principles
+    * Implement and maintain **CI/CD pipelines** to automate the building and deployment of services
+    * **Fine-tune and troubleshoot** on production environments with high workloads
+* Achievements:
+    * Collaborated with high-profile clients across diverse industries, including:
+        - [RAI - Radiotelevisione Italiana](https://www.rai.it/)
+        - [BPER Banca](https://www.bper.it/)
+        - [Assicurazioni Generali](https://www.generali.it/)
+        - [ASPI - Autostrade per l'Italia](https://www.autostrade.it/it/home)
+        - [ARIA - Azienda Regionale per l'Innovazione e gli Acquisti](https://www.ariaspa.it/wps/portal/Aria/Home)
+    * Relevant technical certifications (listed above)
+    * Valuable experience across the entire lifecycle of a working environment, from the initial PoC to the maintenance phase.
+
+---
+
 ## 🛠 DevOps Skills
 
 **Cloud**
@@ -55,30 +79,6 @@ I have worked with small and large clients, both independently and in teams, lea
 * Draw.io
 * ServiceNow
 * A notebook and a pen (to make sketches during long calls)
-
----
-
-## 💼 Working Experience 
-
-### Lutech Spa – DevOps Engineer and System Administrator
-
-📅 2021 – Present
-
-* Key Responsabilities:
-    * Design and maintain scalable and secure **AWS Cloud infrastructures** with containerized environments
-    * Implement and maintain **Infrastructure as Code (IAC)** to automate infrastructure provisioning and improve system reliability
-    * Manage **Identity and Access Management (IAM)**, handling permissions and access control following best practices and principles
-    * Implement and maintain **CI/CD pipelines** to automate the building and deployment of services
-    * **Fine-tune and troubleshoot** on production environments with high workloads
-* Achievements:
-    * Collaborated with high-profile clients across diverse industries, including:
-        - [RAI - Radiotelevisione Italiana](https://www.rai.it/)
-        - [BPER Banca](https://www.bper.it/)
-        - [Assicurazioni Generali](https://www.generali.it/)
-        - [ASPI - Autostrade per l'Italia](https://www.autostrade.it/it/home)
-        - [ARIA - Azienda Regionale per l'Innovazione e gli Acquisti](https://www.ariaspa.it/wps/portal/Aria/Home)
-    * Relevant technical certifications (listed above)
-    * Valuable experience across the entire lifecycle of a working environment, from the initial PoC to the maintenance phase.
 
 ---
 
